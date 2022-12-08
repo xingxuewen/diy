@@ -1,0 +1,14 @@
+{
+    "name": "xingxuewen/diy",
+    "description": "diy",
+    "type": "shop",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xingxuewen",
+            "email": "x2716045641@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
